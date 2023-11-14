@@ -1,0 +1,3 @@
+Зелёный луг;green_meadow.png;green_meadow_background.png;Слизь:50:Орк:20:Гоблин:30
+Пещеры;cave.png;cave_background.png;Зомби:75:Вампир:25
+Тёмный лес;dark_forest.png;dark_forest_background.png;Ведьма:75:Костяной рыцарь:25

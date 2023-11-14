@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameWinForm", "GameWinForm\GameWinForm.csproj", "{03A23A94-EBA1-4A56-A57A-197847F03B9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A23A94-EBA1-4A56-A57A-197847F03B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A23A94-EBA1-4A56-A57A-197847F03B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A23A94-EBA1-4A56-A57A-197847F03B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A23A94-EBA1-4A56-A57A-197847F03B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0570C54-55D1-460F-933F-CC9F879608D3}
+	EndGlobalSection
+EndGlobal

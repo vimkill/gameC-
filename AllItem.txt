@@ -1,0 +1,20 @@
+Weapon;Медный кинжал;sword.png;8;10;20;0
+Weapon;Деревянный посох;magic_staff.png;8;10;0;15
+Weapon;Палитра Аполлона;apollo_palette.png;520;680;0;200
+Weapon;Железный меч;iron_sword.png;12;15;45;0
+Weapon;Стальной топор;steel_axe.png;25;45;50;0
+Weapon;Серебряный лук;silver_bow.png;10;35;20;0
+Weapon;Костяной меч;bone_sword.png;30;60;50;0
+Weapon;Великий том мудрости;great_volume_wisdom.png;640;870;0;250
+Potion;Малое лечебное зелье;small_heal_potion.png;20;0;0
+Potion;Среднее лечебное зелье;medium_heal_potion.png;80;0;0
+Potion;Большое лечебное зелье;large_heal_potion.png;150;0;0
+Potion;Огромное лечебное зелье;big_heal_potion.png;350;0;0
+Potion;Малое зелье маны;small_mana_potion.png;0;20;0
+Potion;Среднее зелье маны;medium_mana_potion.png;0;80;0
+Potion;Большое зелье маны;large_mana_potion.png;0;150;0
+Potion;Огромное зелье маны;big_mana_potion.png;0;350;0
+Potion;Малое зелье стамины;small_stamina_potion.png;0;0;20
+Potion;Среднее зелье стамины;medium_stamina_potion.png;0;0;80
+Potion;Большое зелье стамины;large_stamina_potion.png;0;0;150
+Potion;Огромное зелье стамины;big_stamina_potion.png;0;0;350
